@@ -6,7 +6,7 @@
 
 using namespace std;
 
-int returnIndex(int arr[], int numToCheck);
+int returnIndex(int arr[], int numToCheck, int size);
 
 void modifyInt(int*& arr, int index, int result, int size);
 

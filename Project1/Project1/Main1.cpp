@@ -45,7 +45,7 @@ int main() {
             cin >> numToCheck;
             cout << endl;
 
-            int index = returnIndex(arr, numToCheck);
+            int index = returnIndex(arr, numToCheck, size);
 
             cout << numToCheck << " is at index " << index;
         }

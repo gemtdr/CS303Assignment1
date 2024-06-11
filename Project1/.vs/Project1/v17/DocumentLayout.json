@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\CS303Assignment1\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8D47B69-FCE1-4E15-A227-F63213A05289}|Project1\\Project1.vcxproj|C:\\Users\\19139\\Downloads\\A1input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{C8D47B69-FCE1-4E15-A227-F63213A05289}|Project1\\Project1.vcxproj|C:\\CS303Assignment1\\Project1\\Project1\\Functions1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8D47B69-FCE1-4E15-A227-F63213A05289}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Functions1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8D47B69-FCE1-4E15-A227-F63213A05289}|Project1\\Project1.vcxproj|C:\\CS303Assignment1\\Project1\\Project1\\Main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C8D47B69-FCE1-4E15-A227-F63213A05289}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8D47B69-FCE1-4E15-A227-F63213A05289}|Project1\\Project1.vcxproj|C:\\CS303Assignment1\\Project1\\Project1\\Functions1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C8D47B69-FCE1-4E15-A227-F63213A05289}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Functions1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8D47B69-FCE1-4E15-A227-F63213A05289}|Project1\\Project1.vcxproj|C:\\CS303Assignment1\\Project1\\Project1\\Header1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C8D47B69-FCE1-4E15-A227-F63213A05289}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Header1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D47B69-FCE1-4E15-A227-F63213A05289}|Project1\\Project1.vcxproj|C:\\Users\\19139\\Downloads\\A1input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,11 +25,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "A1input.txt",
               "DocumentMoniker": "C:\\Users\\19139\\Downloads\\A1input.txt",
               "RelativeDocumentMoniker": "..\\..\\Users\\19139\\Downloads\\A1input.txt",
@@ -48,33 +48,36 @@
               "RelativeDocumentMoniker": "Project1\\Main1.cpp",
               "ToolTip": "C:\\CS303Assignment1\\Project1\\Project1\\Main1.cpp",
               "RelativeToolTip": "Project1\\Main1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-11T23:11:07.223Z"
+              "WhenOpened": "2024-06-11T23:11:07.223Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Functions1.cpp",
               "DocumentMoniker": "C:\\CS303Assignment1\\Project1\\Project1\\Functions1.cpp",
               "RelativeDocumentMoniker": "Project1\\Functions1.cpp",
               "ToolTip": "C:\\CS303Assignment1\\Project1\\Project1\\Functions1.cpp",
               "RelativeToolTip": "Project1\\Functions1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-11T23:09:34.035Z"
+              "WhenOpened": "2024-06-11T23:09:34.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Header1.h",
               "DocumentMoniker": "C:\\CS303Assignment1\\Project1\\Project1\\Header1.h",
               "RelativeDocumentMoniker": "Project1\\Header1.h",
               "ToolTip": "C:\\CS303Assignment1\\Project1\\Project1\\Header1.h",
               "RelativeToolTip": "Project1\\Header1.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-11T23:07:05.992Z"
+              "WhenOpened": "2024-06-11T23:07:05.992Z",
+              "EditorCaption": ""
             }
           ]
         }
